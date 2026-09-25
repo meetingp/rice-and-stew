@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Cook Rice and Stew</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #b22222;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #b22222;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 8px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .step {
+            background-color: #fff4e6;
+            padding: 15px;
+            margin: 15px 0;
+            border-left: 5px solid #b22222;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>How to Cook Rice and Stew</h1>
+        <p>A simple Nigerian-style rice and stew recipe</p>
+    </header>
+
+    <div class="container">
+
+        <h2>Ingredients for the Rice</h2>
+
+        <ul>
+            <li>3 cups of long-grain rice</li>
+            <li>6 cups of water</li>
+            <li>1 teaspoon of salt</li>
+            <li>1 tablespoon of vegetable oil (optional)</li>
+        </ul>
+
+        <h2>Ingredients for the Stew</h2>
+
+        <ul>
+            <li>8 fresh tomatoes</li>
+            <li>3 red bell peppers (Tatashe)</li>
+            <li>2 Scotch bonnet peppers (Ata Rodo), or according to taste</li>
+            <li>2 large onions</li>
+            <li>1 kg of chicken or beef</li>
+            <li>1 cup of vegetable oil</li>
+            <li>2 tablespoons of tomato paste</li>
+            <li>2 seasoning cubes</li>
+            <li>1 teaspoon of curry powder</li>
+            <li>1 teaspoon of thyme</li>
+            <li>Salt to taste</li>
+            <li>1 cup of meat stock</li>
+            <li>2 cloves of garlic (optional)</li>
+            <li>Small piece of ginger (optional)</li>
+        </ul>
+
+        <h2>Step-by-Step Procedure for Cooking the Rice</h2>
+
+        <div class="step">
+            <h3>Step 1: Wash the Rice</h3>
+            <p>
+                Put the rice in a bowl and wash it several times with clean water
+                until the water becomes relatively clear.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 2: Boil the Water</h3>
+            <p>
+                Pour 6 cups of water into a clean pot and bring it to a boil.
+                Add salt and vegetable oil if desired.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 3: Add the Rice</h3>
+            <p>
+                Add the washed rice to the boiling water and stir gently.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 4: Cook the Rice</h3>
+            <p>
+                Cover the pot and allow the rice to cook on medium heat.
+                Cook until the rice becomes soft and the water is absorbed.
+                Add a little water if necessary.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 5: Serve the Rice</h3>
+            <p>
+                Once the rice is fully cooked, turn off the heat and allow it
+                to rest for a few minutes before serving.
+            </p>
+        </div>
+
+        <h2>Step-by-Step Procedure for Cooking the Stew</h2>
+
+        <div class="step">
+            <h3>Step 1: Prepare the Meat</h3>
+            <p>
+                Wash the chicken or beef and put it in a pot. Add chopped onions,
+                salt, seasoning cubes, thyme and a little water. Cook until the
+                meat is tender. Keep the meat stock for the stew.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 2: Prepare the Peppers and Tomatoes</h3>
+            <p>
+                Wash the tomatoes, red bell peppers, Scotch bonnet peppers and
+                onions. Blend them together until smooth.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 3: Boil the Blended Mixture</h3>
+            <p>
+                Pour the blended tomatoes and peppers into a pot. Cook on medium
+                heat until some of the excess water evaporates.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 4: Fry the Stew</h3>
+            <p>
+                Heat the vegetable oil in a clean pot. Add some sliced onions
+                and fry for a few minutes. Add the tomato paste and fry briefly.
+                Then add the cooked pepper and tomato mixture.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 5: Add Seasoning</h3>
+            <p>
+                Add curry powder, thyme, seasoning cubes and salt to taste.
+                Stir everything together.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 6: Add the Meat Stock</h3>
+            <p>
+                Pour the meat stock into the stew and stir well. Allow the stew
+                to cook on medium heat until the oil rises to the top and the
+                stew becomes thick.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 7: Add the Meat</h3>
+            <p>
+                Add the cooked chicken or beef to the stew. Allow it to simmer
+                for another 10 to 15 minutes so that the meat absorbs the flavor.
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Step 8: Serve</h3>
+            <p>
+                Turn off the heat and serve the hot stew with the cooked rice.
+                Enjoy your delicious homemade rice and stew!
+            </p>
+        </div>
+
+        <h2>Serving Suggestion</h2>
+
+        <p>
+            Rice and stew can be served with fried plantain, boiled eggs,
+            vegetables or a cold drink.
+        </p>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Rice and Stew Recipe</p>
+    </footer>
+
+</body>
+</html>
